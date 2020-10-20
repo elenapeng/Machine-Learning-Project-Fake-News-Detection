@@ -1,5 +1,4 @@
 # Machine-Learning-Project-Fake-News-Detection
-Data Source: https://www.kaggle.com/jruvika/fake-news-detection
 
 Contributors
 ```
@@ -23,3 +22,4 @@ Schi-Kit learn
 Python pandas
 Python numpy
 ```
+Data Source: https://www.kaggle.com/jruvika/fake-news-detection
